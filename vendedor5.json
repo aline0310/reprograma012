@@ -1,0 +1,21 @@
+{
+    "vendedor":{
+        "nome": "Cassia",
+        "categoria": "Beleza",
+        "segmento":"Estetica",
+        "telefone": "8195327234"
+    },
+    "cliente": {
+        "nome": "Rosa da Silva",
+        "torre": "16",
+        "apartamento": "404",
+        "telefone": "8180975656",
+        "forma de pagamento": "debito"
+    },
+    "pedido":{
+        "produto": "Massagem modeladora",
+        "tipo": "serviço",
+        "valor": "100,00"
+    }
+    
+}

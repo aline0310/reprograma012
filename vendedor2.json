@@ -1,0 +1,21 @@
+{
+    "vendedor":{
+        "nome": "Sulamita",
+        "Categoria": "Alimentacao",
+        "segmento":"Lanches",
+        "telefone": "8195327865"
+    },
+    "cliente": {
+        "nome": "Sandrine Rodrigues",
+        "torre": "6",
+        "apartamento": "04",
+        "telefone": "8187275656",
+        "forma de pagamento": "pix"
+    },
+    "pedido":{
+        "produto": "Ninho com nutella",
+        "tipo": "sacolé",
+        "valor": "4,00"
+    }
+    
+}

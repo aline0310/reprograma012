@@ -1,0 +1,21 @@
+{
+    "vendedor":{
+        "nome": "Aline",
+        "categoria": "Beleza",
+        "segmento":" Desing de Sobrancelhas",
+        "telefone": "8195327865"
+    },
+    "cliente": {
+        "nome": "Bernardo Lima",
+        "torre": "20",
+        "apartamento": "702",
+        "telefone": "8199900654",
+        "forma de pagamento": "cartao de credito"
+    },
+    "pedido":{
+        "produto": "Desing com Henna",
+        "tipo": "serviço",
+        "valor": "35,00"
+    }
+    
+}

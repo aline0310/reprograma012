@@ -1,0 +1,21 @@
+{
+    "vendedor":{
+        "nome": "Welligton",
+        "Categoria": "Bebidas",
+        "segmento": "Bebidas",
+        "telefone": "8195456875"
+    },
+    "cliente": {
+        "nome": "Maria da Costa",
+        "torre": "8",
+        "apartamento": "301",
+        "telefone": "8196479079",
+        "forma de pagamento": "cartao de credito"
+    },
+    "pedido":{
+        "produto": "Heineken sem álcool",
+        "tipo": "cerveja",
+        "valor": "7,50"
+    }
+    
+}

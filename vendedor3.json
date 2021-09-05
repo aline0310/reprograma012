@@ -1,0 +1,21 @@
+{
+    "vendedor":{
+        "nome": "Mery",
+        "Categoria": "Alimentacao",
+        "segmento":"Refeicoes",
+        "telefone": "8188417070"
+    },
+    "cliente": {
+        "nome": "Leonam Bernardo",
+        "torre": "5",
+        "apartamento": "104",
+        "telefone": "8195567878",
+        "forma de pagamento": "dinheiro"
+    },
+    "pedido":{
+        "produto": "Sopa de feijao",
+        "tipo": "Refeicao",
+        "valor": "6,00"
+    }
+    
+}
